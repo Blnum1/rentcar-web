@@ -1,0 +1,41 @@
+
+  
+ 
+  .sidebar {
+    width: 200px;
+    height: 1000px; 
+    background-color: #0b2239; 
+    color: white; 
+    padding: 20px; 
+  }
+  
+  
+  .sidebar .logo {
+    font-size: 24px; 
+    margin-bottom: 30px; 
+    color: rgb(0, 204, 255); 
+  }
+  
+  
+  .sidebar ul {
+    list-style-type: none; 
+    padding: 0; 
+  }
+  
+  .sidebar ul li {
+    margin-bottom: 30px; 
+  }
+  
+  .sidebar ul li a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 18px; 
+  }
+  
+  .sidebar ul li a:hover {
+    text-decoration: underline; 
+  }
+
+  p {
+    font-size: 34px;
+  }
